@@ -1,0 +1,7 @@
+packages/
+obj/
+bin/
+.vs/
+*.ncrunchproject*
+*.ncrunchsolution*
+*.crunchsolution.cache
